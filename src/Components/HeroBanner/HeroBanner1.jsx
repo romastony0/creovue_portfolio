@@ -21,16 +21,16 @@ const HeroBanner1 = () => {
 
   const heroContent = {
     bg: "/assets/img/hero/hero-bg.png",
-    subtitle: "go for advertising",
-    title: "think digital",
+    subtitle: "Dominate Social Media",
+    title: "Data-Driven Results",
     content:
-      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or  randomised",
+      "Creovue delivers cutting-edge social media strategies that boost engagement, drive conversions, and maximize ROI. Let us transform your digital presence.",
     content2:
-      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected.",
+      "From influencer campaigns to precision-targeted ads, we turn followers into loyal customers. Trusted by 500+ brands worldwide.",
     img: "/assets/img/hero/hero-text.png",
     reviewlogo: "/assets/img/hero/logo.png",
     reviewimg: "/assets/img/hero/client.png",
-    review: "450+ reviews",
+    review: "500+ Happy Clients",
   };
 
   return (
@@ -126,7 +126,7 @@ const HeroBanner1 = () => {
                       <i className="fa-solid fa-star"></i>
                       <i className="fa-solid fa-star"></i>
                       <i className="fa-solid fa-star"></i>
-                      <i className="fa-regular fa-star"></i>
+                      <i className="fa-solid fa-star"></i>
                     </div>
                     <span>{heroContent.review}</span>
                   </div>
